@@ -9,7 +9,7 @@ metadata:
     tier: backend
    
 spec:
-  replicas: 5
+  replicas: 10
   selector:
     matchLabels:
       app: myapp
